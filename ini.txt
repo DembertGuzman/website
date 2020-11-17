@@ -1,0 +1,3 @@
+archivo de inicializacion
+nombre: dembert guzman
+edad: 32 años
