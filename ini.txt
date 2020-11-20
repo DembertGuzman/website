@@ -3,3 +3,5 @@ nombre: dembert guzman
 edad: 32 años
 nacimiento: 1986
 ciudad: Arequipa
+Pais: Peru
+profesion: Programador
