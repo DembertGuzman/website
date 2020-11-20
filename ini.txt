@@ -1,3 +1,5 @@
 archivo de inicializacion
 nombre: dembert guzman
 edad: 32 años
+nacimiento: 1986
+ciudad: Arequipa
